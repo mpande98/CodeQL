@@ -1,0 +1,12 @@
+{    
+    "name": "extensionName",
+    "type": "sample",
+    "location": "<location>",
+    "properties": {
+        "prop1": true,
+        "prop2": true, 
+        "publisher": "cool",
+        "type": "ok",
+        "typeHandlerVersion": "9.5"
+        }
+}
